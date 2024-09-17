@@ -4,7 +4,7 @@ curl -X PUT "https://api.cloudflare.com/client/v4/zones/e856eac354b9546912d89f1b
      -H "Content-Type: application/json" \
      --data '{
      "action": "block",
-     "priority": 1000,
+     "priority": 282,
      "paused": true,
      "description": "Block Quốc Tế",
      "filter": {
