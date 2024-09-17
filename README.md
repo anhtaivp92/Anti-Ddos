@@ -4,7 +4,7 @@
 
 GET rules
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/DauDau432/Anti-Ddos/main/get-rules.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/anhtaivp92/Anti-Ddos/main/get-rules.sh)
 ```
 
 Cấu trúc GET rules
@@ -39,5 +39,5 @@ curl -X PUT "https://api.cloudflare.com/client/v4/zones/<zones id>/firewall/rule
 
 ### ***Cài đặt***
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/DauDau432/Anti-Ddos/main/install-api)
+bash <(curl -Ls https://raw.githubusercontent.com/anhtaivp92/Anti-Ddos/main/install-api)
 ```
